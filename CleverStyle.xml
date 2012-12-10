@@ -4,16 +4,20 @@
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="3f5e39" />
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="ffff99" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1a" />
+    <option name="FILESTATUS_ADDED" value="a4c25b" />
+    <option name="FILESTATUS_MODIFIED" value="4598ff" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4598ff" />
     <option name="FOLDING_TREE_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="1a1a1a" />
     <option name="INDENT_GUIDE" value="3d3d3d" />
     <option name="LINE_NUMBERS_COLOR" value="aeaeae" />
     <option name="METHOD_SEPARATORS_COLOR" value="3d3d3d" />
-    <option name="MODIFIED_LINES_COLOR" value="808080" />
+    <option name="MODIFIED_LINES_COLOR" value="5d4530" />
     <option name="NOTIFICATION_BACKGROUND" value="1a1a1a" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
@@ -764,6 +768,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="JS.DOC_MARKUP">
       <value>
         <option name="FOREGROUND" />
@@ -871,6 +885,16 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="-1" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -1924,6 +1948,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="SQL_COMMA">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -1957,6 +1991,16 @@
     <option name="SQL_SCHEMA">
       <value>
         <option name="FOREGROUND" value="adadad" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SQL_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
