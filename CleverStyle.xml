@@ -424,6 +424,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="adadad" />
+      </value>
+    </option>
     <option name="JS.DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -474,6 +479,11 @@
       <value>
         <option name="FOREGROUND" value="b1b1" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="adadad" />
       </value>
     </option>
     <option name="JS.STRING">
@@ -553,6 +563,11 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="PHP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="a437a6" />
@@ -609,6 +624,11 @@
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="PHP_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="PHP_STRING">
