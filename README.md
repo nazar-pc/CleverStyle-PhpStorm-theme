@@ -8,4 +8,6 @@ I'm using this theme with font "DejaVu Sans Mono" and size 11.
 
 This theme looks the best with new Dracula UI in PhpStorm 6 EAP.
 
+For PhpStorm 6+ use CleverStyle.icls file, for previous versions CleverStyle.xml file.
+
 I hope you will like it:)
