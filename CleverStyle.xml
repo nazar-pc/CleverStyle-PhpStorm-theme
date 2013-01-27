@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="CleverStyle" version="1" parent_scheme="Default">
+<scheme name="CleverStyle" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -195,6 +195,9 @@
         <option name="FOREGROUND" value="4646f1" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value />
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
@@ -439,6 +442,13 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="adadad" />
+        <option name="BACKGROUND" value="1a1a1a" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -989,6 +999,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SQL_COMMA">
+      <value>
+        <option name="FOREGROUND" value="adadad" />
+      </value>
+    </option>
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -1006,6 +1021,11 @@
       </value>
     </option>
     <option name="SQL_SCHEMA">
+      <value>
+        <option name="FOREGROUND" value="adadad" />
+      </value>
+    </option>
+    <option name="SQL_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="adadad" />
       </value>
