@@ -2,9 +2,9 @@ CleverStyle PhpStorm theme
 
 This is dark theme.
 
-It was configured for PHP, CSS, LESS and JS languages.
+It was configured for ALL languages, supported by PhpStorm.
 
-I'm using this theme with font "DejaVu Sans Mono" and size 11.
+I'm using this theme with font "DejaVu Sans Mono" and size 11, so install this font or change it to another.
 
 This theme looks the best with new Dracula UI in PhpStorm 6 EAP.
 
