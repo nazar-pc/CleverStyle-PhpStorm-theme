@@ -10,4 +10,6 @@ This theme looks the best with new Dracula UI in PhpStorm 7.
 
 For PhpStorm 6+ use CleverStyle.icls file, for previous versions CleverStyle.xml file.
 
+[How to install theme](http://lmgtfy.com/?q=phpstorm+instal+theme&l=1)
+
 I hope you will like it:)
