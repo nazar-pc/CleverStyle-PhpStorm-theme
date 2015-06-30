@@ -1,4 +1,4 @@
-<scheme name="CleverStyle" version="124" parent_scheme="Default">
+<scheme name="CleverStyle" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -183,6 +183,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="7b7acc" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="619654" />
@@ -220,7 +225,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -333,39 +337,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value>
-        <option name="FOREGROUND" value="8080" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HAML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HAML_FILTER">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HAML_FILTER_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="e8d3d3" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="HAML_ID">
       <value>
-        <option name="FOREGROUND" value="c200c2" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HAML_RUBY_CODE">
-      <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="cc783c" />
       </value>
     </option>
     <option name="HAML_RUBY_START">
@@ -378,17 +352,6 @@
       <value>
         <option name="FOREGROUND" value="cc783c" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="HAML_XHTML">
-      <value>
-        <option name="FOREGROUND" value="ffff00" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="HTML_ATTRIBUTE_NAME">
-      <value>
-        <option name="FOREGROUND" value="7b7acc" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -766,11 +729,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="PHP_VAR">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -1115,12 +1073,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SQL_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="SQL_NUMBER">
       <value>
         <option name="FOREGROUND" value="6897ba" />
@@ -1233,7 +1185,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffff00" />
-        <option name="ERROR_STRIPE_COLOR" value="ffff00" />
+        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
