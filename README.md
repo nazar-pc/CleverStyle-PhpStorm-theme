@@ -1,12 +1,12 @@
-CleverStyle PhpStorm theme
-
-This is dark theme.
+CleverStyle is beautiful dark theme for PhpStorm/WebStorm/etc.
 
 It was configured for ALL languages, supported by PhpStorm (PHP/CSS/JS/LESS/SASS/CoffeeScript/YAML/JSON/HAML/XML).
 
-I'm using this theme with font "DejaVu Sans Mono" and size 11, so install this font or change it to another.
+I'm using this theme with font "DejaVu Sans Mono" and size 11, so you can try that too to get native experience.
 
-This theme looks the best with new Dracula UI.
+This theme looks the best with Dracula UI.
+
+Screenshot is not up to date, just try it live, because it is awesome!
 
 [How to install theme](http://lmgtfy.com/?q=phpstorm+instal+theme)
 
