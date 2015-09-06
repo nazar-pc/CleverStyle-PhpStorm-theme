@@ -401,9 +401,6 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME">
-      <value />
-    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -432,6 +429,10 @@
         <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
