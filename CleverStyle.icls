@@ -91,7 +91,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f7f7f7" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -99,10 +99,9 @@
         <option name="BACKGROUND" value="2d2d2d" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a6a6a6" />
+        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -118,10 +117,9 @@
       </value>
     </option>
     <option name="CSS.FUNCTION">
-      <value />
-    </option>
-    <option name="CSS.IDENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
     </option>
     <option name="CSS.IMPORTANT">
       <value>
@@ -462,50 +460,12 @@
         <option name="FOREGROUND" value="aac26f" />
       </value>
     </option>
-    <option name="JS.BADCHARACTER">
-      <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.COMMA">
-      <value>
-        <option name="FOREGROUND" value="adadad" />
-      </value>
-    </option>
-    <option name="JS.DOC_TAG">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="JS.INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.REGEXP">
-      <value>
-        <option name="FOREGROUND" value="b1b1" />
-      </value>
-    </option>
-    <option name="JS.SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="adadad" />
-      </value>
-    </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="7b7acc" />
@@ -550,6 +510,68 @@
       <value>
         <option name="FOREGROUND" value="4f83d3" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="619654" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.BOOLEAN">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="6897ba" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.FUNCTION_NAME">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.IDENTIFIER">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="619654" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.REGULAR_EXPRESSION_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="b1b1" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.STRING">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="LIVESCRIPT.STRING_LITERAL">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
       </value>
     </option>
     <option name="MARKDOWN.ABBREVIATION">
@@ -1047,9 +1069,6 @@
         <option name="FOREGROUND" value="cc7832" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="SASS_NUMBER">
-      <value />
     </option>
     <option name="SASS_VARIABLE">
       <value>
