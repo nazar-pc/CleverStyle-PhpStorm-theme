@@ -427,10 +427,6 @@
         <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="629755" />
@@ -1086,9 +1082,6 @@
         <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
-    <option name="SQL_COLUMN">
-      <value />
-    </option>
     <option name="SQL_COMMENT">
       <value>
         <option name="FOREGROUND" value="619654" />
@@ -1285,9 +1278,6 @@
       <value>
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="YAML_SCALAR_LIST">
-      <value />
     </option>
     <option name="osmorc.attributeName">
       <value>
