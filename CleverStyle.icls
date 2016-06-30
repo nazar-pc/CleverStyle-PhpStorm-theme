@@ -55,6 +55,11 @@
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="BASH.SHEBANG">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="4f83d3" />
@@ -91,7 +96,6 @@
         <option name="BACKGROUND" value="2d2d2d" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value />
     </option>
@@ -155,7 +159,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_COMMA" baseAttributes="TEXT" />
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d4368a" />
@@ -225,7 +231,9 @@
         <option name="FOREGROUND" value="7b7acc" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON" baseAttributes="TEXT" />
+    <option name="DEFAULT_SEMICOLON">
+      <value />
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="4f83d3" />
@@ -235,6 +243,11 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -328,10 +341,10 @@
     </option>
     <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="XML_ATTRIBUTE_NAME" />
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="HTML_TAG" baseAttributes="XML_TAG" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -600,6 +613,16 @@
         <option name="FOREGROUND" value="287bde" />
       </value>
     </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_LABEL">
+      <value>
+        <option name="FOREGROUND" value="287bde" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -628,9 +651,6 @@
         <option name="FOREGROUND" value="4f83d3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="MULTIMARKDOWN.BLOCK_QUOTE">
-      <value />
     </option>
     <option name="MULTIMARKDOWN.BOLD_MARKER">
       <value>
@@ -878,9 +898,6 @@
         <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.WIKI_LINK_REF" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
-    <option name="MULTIMARKDOWN.WIKI_LINK_SEPARATOR" baseAttributes="MULTIMARKDOWN.WIKI_LINK" />
-    <option name="MULTIMARKDOWN.WIKI_LINK_TEXT" baseAttributes="MULTIMARKDOWN.WIKI_LINK_REF" />
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="aac26e" />
@@ -913,10 +930,7 @@
     <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
+      <value />
     </option>
     <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
@@ -1218,7 +1232,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="SASS_MIXIN" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
